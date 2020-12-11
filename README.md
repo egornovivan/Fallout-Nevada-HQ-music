@@ -16,5 +16,6 @@ High quality music for Fallout Nevada.
 1. In `fallout2.cfg` find `[sound]` section and set `music_path1=data\sound\music\`.
 1. In `ddraw.ini`, find `[Sound]` section and set `AllowDShowSound=2`.
 
-
+## Composer
+[Nobody's Nail Machine](https://nobodysnailmachine.bandcamp.com/)
 
